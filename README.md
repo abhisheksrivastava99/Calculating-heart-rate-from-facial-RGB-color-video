@@ -8,5 +8,6 @@
 **Step-7**:Apply ICA and input will be RGB channel normalized values.</br>
 **Step-8**:Apply fourier transform.</br>
 **Step-9**:Calculate heart rate.</br>
+HR=60*(number of peaks/time) bpm </br>
 **Step-10**:Plot the graph.</br>
-**Step-11**:Calculate heart rate variability(HRV)
+**Step-11**:Calculate heart rate variability(HRV) using RMSSD.</br>
